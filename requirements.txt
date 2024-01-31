@@ -1,2 +1,2 @@
-confluent_kafka==2.3.0
-dataiku-api-client-python==12.5.0
+confluent_kafka
+dataiku-api-client-python
