@@ -1,0 +1,4 @@
+streamlit
+confluent_kafka
+dataiku-api-client-python
+requests
